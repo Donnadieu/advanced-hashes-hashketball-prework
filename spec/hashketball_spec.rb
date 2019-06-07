@@ -276,14 +276,14 @@ describe 'bonus' do
 
 end
 
-describe 'super bonus' do
-
-  describe '#long_name_steals_a_ton?' do
-
-    it 'returns true' do
-      expect(long_name_steals_a_ton?).to eq(true)
-    end
-
-  end
-
-end
+# describe 'super bonus' do
+#
+#   describe '#long_name_steals_a_ton?' do
+#
+#     it 'returns true' do
+#       expect(long_name_steals_a_ton?).to eq(true)
+#     end
+#
+#   end
+#
+# end
